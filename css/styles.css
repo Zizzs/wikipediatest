@@ -66,6 +66,35 @@
     border: 1px solid rgb(222, 222, 222);
 }
 
+#well2 {
+    margin-left: 165px;
+    margin-top: 10px;
+    
+    
+}
+
+#well2 h4 {
+    padding:8px;
+    background-color: rgb(109, 194, 109)
+}
+
+#well2left {
+    margin-left: 10px;
+    margin-right: 30px;
+    background-color: rgb(226, 242, 226);
+    border: 1px solid rgb(204, 235, 204);
+}
+
+#well2right {
+    margin-left: 260px;
+    background-color: #f5faff;
+    border: 1px solid #a3b0bf;
+}
+
+#well2right h4{
+    background-color: #cedff2
+}
+
 #welcometext {
     font-size: 25px;
 }
