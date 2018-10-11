@@ -1,0 +1,83 @@
+#sidebar {
+    position: absolute;
+    top: 0;
+    float:left;
+    width: 150px;
+    font-size: 12px;
+    background-color:	#F5F5F5;
+    height: 100%;
+}
+
+#sidebar li {
+    padding-top: 2px;
+    margin-left: -13px;
+    list-style: none;
+    text-align: left;
+}
+#sidebar ul {
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+}
+#sidebar p {
+    margin-left: 27px;
+    border-bottom: 1px inset gray;
+}
+
+#sidebar img {
+    width: 130px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-bottom: 7px;
+
+}
+.mainnav { 
+    margin-left: 150px;
+}
+
+.mainnav .left {
+    margin-right: 300px;
+}
+
+
+
+.navRight {
+    width: 100%;
+    float:right;
+    margin-bottom: 7px;
+    padding-left: 55%;
+    margin-top: 8px;
+    font-size: 13px;
+}
+
+#well1left {
+    text-align: center;
+    margin-left: 20px;
+    
+}
+
+#well1right {
+    float: right;
+}
+
+#well1 {
+    padding-left: 10px;
+    background-color: #F5F5F5;
+    border: 1px solid rgb(222, 222, 222);
+}
+
+#welcometext {
+    font-size: 25px;
+}
+
+#maincontainer {
+    padding: 25px;
+}
+.sidetext {
+    margin-top: 15px;
+    margin-left:15px;
+    margin-right: 25px;
+}
+.sidetext ul li {
+    font-size: 12px;
+}
